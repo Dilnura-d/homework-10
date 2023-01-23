@@ -6,7 +6,7 @@ let studentsname = [ {name: "John"},
  function setInfo(){
    for(let i = 0; i < users.length; i++){
       if(users[i].name.length < 5){
-        console.log("Lesss than 5 letters")}
+        console.log("Less than 5 letters")}
       else{
         console.log("More than 5 letters");
          }
