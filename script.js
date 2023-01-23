@@ -1,5 +1,5 @@
 
-let studentsname = [ {name: "John"},
+let studentsName = [ {name: "John"},
                 {name: "Alex"},{name: "Alice"}, {name: "Maria"},{name: "Albert"},{name: "George"},
              {name: "Morisa"},{name: "Maddison"}, {name: "Aidan"}, {name: "Hector"}
  ]
